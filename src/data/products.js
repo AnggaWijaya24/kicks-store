@@ -1,0 +1,58 @@
+export const products = [
+  {
+    id: 1,
+    name: "Adidas Samba OG White",
+    price: 2200000,
+    image: "https://images.unsplash.com/photo-1718220130188-428c7dc27fd2?q=80&w=974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    description: "sepatu retro-klasik dengan kulit putih, aksen tiga garis (3-Stripes).",
+  },
+  {
+    id: 2,
+    name: "Classic Canvas White",
+    price: 450000,
+    image: "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?w=500&auto=format&fit=crop&q=60",
+    description: "Sepatu kanvas putih klasik yang cocok untuk gaya kasual sehari-hari.",
+  },
+  {
+    id: 3,
+    name: "Runner Boost Pro",
+    price: 1800000,
+    image: "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?w=500&auto=format&fit=crop&q=60",
+    description: "Sepatu lari performa tinggi dengan teknologi rebound energi.",
+  },
+  {
+    id: 4,
+    name: "Nike Air Force",
+    price: 950000,
+    image: "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=500&auto=format&fit=crop&q=60",
+    description: "Desain sol tebal (chunky) yang sedang tren di kalangan anak muda.",
+  },
+  {
+    id: 5,
+    name: "Retro Leather Low",
+    price: 1100000,
+    image: "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500&auto=format&fit=crop&q=60",
+    description: "Gaya retro tahun 90-an dengan bahan kulit sintetis premium.",
+  },
+  {
+    id: 6,
+    name: " Chuck Taylor All Star Hi",
+    price: 1299000,
+    image: "https://images.unsplash.com/photo-1565379793984-e65b51b33b37?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    description: "sepatu klasik dengan material kanvas dan patch logo bintang khas.",
+  },
+  {
+    id: 7,
+    name: "Slip-On Checkerboard",
+    price: 350000,
+    image: "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=500&auto=format&fit=crop&q=60",
+    description: "Tanpa tali, tinggal pakai. Motif kotak-kotak yang timeless.",
+  },
+  {
+    id: 8,
+    name: "Future Tech Gray",
+    price: 2100000,
+    image: "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=500&auto=format&fit=crop&q=60",
+    description: "Desain futuristik dengan material mesh yang breathable.",
+  },
+];
